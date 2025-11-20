@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Soạn thảo Văn bản theo Nghị định 30",
+  "description": "Một ứng dụng web thông minh giúp tự động kiểm tra, sửa lỗi định dạng và chính tả cho các văn bản hành chính theo tiêu chuẩn của Nghị định 30/2020/NĐ-CP của Chính phủ Việt Nam, sử dụng sức mạnh của Gemini API.",
+  "requestFramePermissions": []
+}
